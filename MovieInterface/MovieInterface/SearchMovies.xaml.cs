@@ -1,9 +1,4 @@
-﻿/// Name: Seth McCrudden, Jimmy Butcher
-/// Date: 11/24/2020
-/// File: SearchMovies.xaml.cs
-/// Description: Code for SearchMovies.xaml controls.
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data.OleDb;
 using System.Linq;

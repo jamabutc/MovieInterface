@@ -1,9 +1,4 @@
-﻿/// Name: Seth McCrudden, Jimmy Butcher
-/// Date: 11/24/2020
-/// File: MovieInterformation.xaml.cs
-/// Description: Code for MovieInformation.xaml controls.
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

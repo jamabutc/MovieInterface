@@ -7,11 +7,6 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
-/// Name: Seth McCrudden, Jimmy Butcher
-/// Date: 11/24/2020
-/// File: MovieInterfaceHome.xaml.cs
-/// Description: Code for MovieInterfaceHome.xaml controls.
-
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;

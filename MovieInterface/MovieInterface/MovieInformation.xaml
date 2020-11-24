@@ -1,9 +1,4 @@
-﻿<!--Names: Seth McCrudden, Jimmy Butcher-->
-<!--Date: 11/24/2020-->
-<!--File: MovieInformation.xaml-->
-<!--Description: Contains GUI xaml code for MovieInformation screen-->
-    
-<Page x:Class="MovieInterface.MovieInformation"
+﻿<Page x:Class="MovieInterface.MovieInformation"
       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
